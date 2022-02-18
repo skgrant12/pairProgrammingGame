@@ -1,0 +1,15 @@
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\obj\Debug\net6.0\storyline.csproj.AssemblyReference.cache
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\obj\Debug\net6.0\storyline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\obj\Debug\net6.0\storyline.AssemblyInfoInputs.cache
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\obj\Debug\net6.0\storyline.AssemblyInfo.cs
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\obj\Debug\net6.0\storyline.csproj.CoreCompileInputs.cache
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\bin\Debug\net6.0\storyline.exe
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\bin\Debug\net6.0\storyline.deps.json
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\bin\Debug\net6.0\storyline.runtimeconfig.json
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\bin\Debug\net6.0\storyline.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\bin\Debug\net6.0\ref\storyline.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\bin\Debug\net6.0\storyline.pdb
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\obj\Debug\net6.0\storyline.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\obj\Debug\net6.0\ref\storyline.dll
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\obj\Debug\net6.0\storyline.pdb
+C:\Users\sgran\Documents\CF127FT\codingFoundations\assignments\pairProgrammingGame\pairProgrammingGame\storyline\obj\Debug\net6.0\storyline.genruntimeconfig.cache
